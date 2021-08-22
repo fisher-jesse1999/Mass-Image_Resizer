@@ -32,3 +32,5 @@ if exist resized-* (
 
 echo Start: %startTime%
 echo Finished: %time%
+
+pause
